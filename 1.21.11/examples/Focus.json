@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "mappingVersion": "1.21.11-v1",
+  "name": "Focus",
+  "enabled": true,
+  "gains": {
+    "explosions": 0.35,
+    "totems": 1.0,
+    "eating": 0.85,
+    "blocks": 0.55,
+    "anchors": 0.8,
+    "pearls": 1.0,
+    "melee": 0.8,
+    "equipment": 0.65
+  }
+}

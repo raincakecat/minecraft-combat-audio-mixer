@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "mappingVersion": "1.21.11-v1",
+  "name": "Quiet",
+  "enabled": true,
+  "gains": {
+    "explosions": 0.15,
+    "totems": 0.65,
+    "eating": 0.5,
+    "blocks": 0.3,
+    "anchors": 0.5,
+    "pearls": 0.65,
+    "melee": 0.4,
+    "equipment": 0.4
+  }
+}

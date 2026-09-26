@@ -1,0 +1,6 @@
+{
+  "entity.generic.explode": {
+    "replace": true,
+    "sounds": ["minecraft:random/orb"]
+  }
+}

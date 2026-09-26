@@ -1,0 +1,3 @@
+40e5d4fe789f4c3fdb2d89bde90cd89b67fc310c6416913a3cbc083b4cf3c8f4  combat-audio-mixer-1.0.0+mc1.21.11.jar
+9c32e568644faa364f4c75cdd7e1c965d71086ce8bdff7cdf1dd1db0efd28ed9  Combat-Audio-Mixer-1.21.11-Install.zip
+0d6131a9835413e50844f7f879ec44669e07cfba611908b93e95282730c256e7  Combat-Audio-Mixer-Source.zip

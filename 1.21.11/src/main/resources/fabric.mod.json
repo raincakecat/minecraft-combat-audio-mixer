@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "combat_audio_mixer",
+  "version": "${version}",
+  "name": "Combat Audio Mixer",
+  "description": "Local combat sound controls, previews, and shareable presets for Fabric 1.21.11. Open with F8 or /combataudio.",
+  "authors": ["Combat Audio Mixer contributors"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": { "client": ["dev.combataudio.CombatAudioClient"] },
+  "mixins": ["combat-audio-mixer.mixins.json"],
+  "depends": { "fabricloader": ">=0.18.4", "minecraft": "1.21.11", "java": ">=21", "fabric-api": "*" }
+}
