@@ -8,7 +8,7 @@ Eight combat sound groups, live 0-150% volume controls, individual and overlappi
 
 1. Use a Minecraft **1.21.11** instance with **Fabric Loader 0.18.4 or newer**.
 2. Put `combat-audio-mixer-1.0.0+mc1.21.11.jar` in that instance's `mods` folder.
-3. Install Fabric API for 1.21.11 in the same folder. The installation ZIP includes the tested `fabric-api-0.141.6+1.21.11.jar`. Keep only one compatible Fabric API version in the instance.
+3. Install Fabric API for 1.21.11 in the same folder — download it from https://fabricmc.net/use/installer/ or the Fabric API releases page. Keep only one compatible Fabric API version in the instance.
 4. Start Minecraft. Open **Options -> Music & Sound -> Combat Audio Mixer...**. In a world, **F8** or the client command **/combataudio** also opens it.
 
 This release targets 1.21.11 exactly. The Minecraft runtime needs Java 21 or newer. Testing used Java 25. The mod does not install into your existing game automatically.

@@ -2,13 +2,13 @@
 
 For **Minecraft Java 1.21.11 with Fabric**.
 
-1. Extract the installation ZIP.
-2. Open the `mods` folder inside the extracted ZIP.
-3. Copy `combat-audio-mixer-1.0.0+mc1.21.11.jar` into the `mods` folder of your **1.21.11 Fabric instance**.
-4. Make sure that instance also has Fabric API for 1.21.11. The included `fabric-api-0.141.6+1.21.11.jar` is the version tested with this release. Keep only one compatible Fabric API JAR; do not add a second copy if it is already present.
+1. Download `combat-audio-mixer-1.0.0+mc1.21.11.jar` from the `jars/` folder of this repository.
+2. Download Fabric API for 1.21.11 from https://modrinth.com/mod/fabric-api or https://fabricmc.net/use/installer/. `fabric-api-0.141.6+1.21.11.jar` is the version tested with this release.
+3. Put both JARs into the `mods` folder of your **1.21.11 Fabric instance**.
+4. Keep only one compatible Fabric API JAR; do not add a second copy if it is already present.
 5. Launch the instance using Fabric Loader 0.18.4 or newer.
 
-Use your launcher's instance folder if it has a custom game directory. Do not copy the ZIP itself into `mods`. This mod is for the client, not a Minecraft server.
+Use your launcher's instance folder if it has a custom game directory. This mod is for the client, not a Minecraft server.
 
 ## Open the controls
 
