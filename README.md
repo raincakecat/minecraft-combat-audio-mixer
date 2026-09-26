@@ -1,6 +1,6 @@
 # Combat Audio Mixer
 
-A client-side Fabric mod for Minecraft Java that gives you live, per-group volume control over combat-relevant vanilla sounds. Eight sound groups mapped over 27 vanilla sound events, live 0-150% sliders, previews, presets, and local JSON preset sharing — no server plugin or hosted service.
+A client-side Fabric mod for Minecraft Java that gives you live, per-group volume control over combat-relevant vanilla sounds. Eight sound groups mapped over 27 vanilla sounds, live 0-150% sliders, previews, presets, and local JSON preset sharing. Requires no server plugin or hosted service.
 
 ![Mixer preview](1.21.11/Mixer-preview.png)
 
